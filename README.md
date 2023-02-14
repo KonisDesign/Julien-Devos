@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently working with M2I
+[My portfolio](https://konisdesign.github.io/40-Projects/13.%20Portfolio%20Website/)
 
 
 # 💻 Tech Stack:
