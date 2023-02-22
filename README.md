@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working with M2I
+I'm currently working with M2I</br>
 [My portfolio](https://konisdesign.github.io/40-Projects/13.%20Portfolio%20Website/)
 
 
